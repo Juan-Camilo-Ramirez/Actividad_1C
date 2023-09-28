@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class Quinto {
+public class Ejer_04 {
     public static PrintStream screen = System.out;
     public static Scanner keyboard = new Scanner(System.in);
 
